@@ -9,31 +9,31 @@ export default function Document() {
     >
       <Head>
         {/* <title>pranjal ✦ developer, designer</title> */}
-        <meta name="title" content="pranjal ✦ developer, designer" />
+        <meta name="title" content="Muhammed Abdelhamed ✦ developer, designer" />
         <meta name="description" content="Developer // Designer // Weeb" />
 
         {/* <!-- Open Graph / Facebook --> */}
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://pranjalshikhar.vercel.app/" />
-        <meta property="og:title" content="pranjal ✦ developer, designer" />
+        <meta property="og:url" content="https://https://hameed.vercel.app/" />
+        <meta property="og:title" content="Muhammed Abdelhammed ✦ developer, designer" />
         <meta
           property="og:description"
           content="Developer // Designer // Weeb"
         />
         <meta
           property="og:image"
-          content="https://res.cloudinary.com/dhtviyhse/image/upload/v1682600618/pranjalshikhar_i8znzx.jpg"
+          content="https://raw.githubusercontent.com/muhammedabdelhamed/hameed/refs/heads/main/public/image.png"
         />
 
         {/* <!-- Twitter --> */}
         <meta property="twitter:card" content="summary_large_image" />
         <meta
           property="twitter:url"
-          content="https://pranjalshikhar.vercel.app/"
+          content="https://hameed.vercel.app/"
         />
         <meta
           property="twitter:title"
-          content="pranjal ✦ developer, designer"
+          content="Muhammed abdelhamed ✦ developer, designer"
         />
         <meta
           property="twitter:description"
@@ -41,11 +41,11 @@ export default function Document() {
         />
         <meta
           property="twitter:image"
-          content="https://res.cloudinary.com/dhtviyhse/image/upload/v1682600618/pranjalshikhar_i8znzx.jpg"
+          content="https://raw.githubusercontent.com/muhammedabdelhamed/hameed/refs/heads/main/public/image.png"
         />
 
         {/* whatsapp */}
-        <meta property="og:site_name" content="pranjal ✦ developer, designer" />
+        <meta property="og:site_name" content="Muhammed Abdelhamed ✦ developer, designer" />
         <meta property="og:title" content="pranjal ✦ developer, designer" />
         <meta
           property="og:description"
@@ -54,17 +54,17 @@ export default function Document() {
         <meta
           property="og:image"
           itemprop="image"
-          content="https://res.cloudinary.com/dhtviyhse/image/upload/v1682600618/pranjalshikhar_i8znzx.jpg"
+          content="https://raw.githubusercontent.com/muhammedabdelhamed/hameed/refs/heads/main/public/image.png"
         />
         <meta property="og:type" content="website" />
 
         {/* canonical links */}
-        <link rel="canonical" href="https://pranjalshikhar.vercel.app/" />
+        <link rel="canonical" href="https://hameed.vercel.app" />
         <link
           rel="search"
           href="/opensearch.xml"
           type="application/opensearchdescription+xml"
-          title="pranjal ✦ developer, designer"
+          title="Muhammed Abdelhamed ✦ developer, designer"
         />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
