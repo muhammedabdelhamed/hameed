@@ -115,7 +115,7 @@ const tech = () => {
     {
       title: "Wordpress",
       id: 11,
-      main: "/icons/wordpress-logo.svg",
+      main: "/icons/Wordpress-Logo.svg",
       desc: "Full-Stack Developer specializing in WordPress development.",
       tag: "develop",
       bg: "bg-orange-500",
