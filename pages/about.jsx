@@ -75,7 +75,7 @@ export default function About() {
             </div> */}
           </div>
           <CategoryCard />
-          <div className=" text-[0.92rem] text-base mx-8 font-light dark:text-white text-gray-900">
+          <div className=" text-[0.92rem] text-base mx-auto font-light dark:text-white text-gray-900">
             <p className="mt-6 mb-12 font-normal">
               Front-end Engineer who develops modern, reactive, and
               user-friendly web applications using the latest technologies.{" "}
