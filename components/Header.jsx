@@ -16,6 +16,7 @@ const Header = () => {
   const router = useRouter().asPath;
   const [mounted, setMounted] = useState(false);
   let Links = [
+    { name: "home", link: "/" },
     { name: "timeline", link: "/timeline" },
     { name: "work", link: "/work" },
     { name: "about", link: "/about" },
