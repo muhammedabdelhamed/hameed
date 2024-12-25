@@ -6,11 +6,11 @@
 
 
 
-This project is built with Next.js and React, showcasing [Muhammad Fiaz](https://github.com/muhammad-fiaz/)'s [personal website](https://muhammadfiaz.com/).
+This project is built with Next.js and React, showcasing [Muhammad Fiaz](https://github.com/muhammedabdelhamed/)'s [personal website](https://#/).
 
-**Feel free to use this project for your portfolio or as a project reference. If you find it helpful, don't forget to give it a ⭐️ to show your support. [Fork this repo](https://github.com/muhammad-fiaz/portfolio/fork) if you want to contribute✨**
+**Feel free to use this project for your portfolio or as a project reference. If you find it helpful, don't forget to give it a ⭐️ to show your support. [Fork this repo](https://github.com/muhammedabdelhamed/hameed/fork) if you want to contribute✨**
 
-**Support me with a little [sponsor ❤️](https://github.com/sponsors/muhammad-fiaz)**
+**Support me with a little [sponsor ❤️](https://github.com/sponsors/muhammedabdelhamed)**
 
 ## Table of Contents
 
@@ -24,8 +24,6 @@ This project is built with Next.js and React, showcasing [Muhammad Fiaz](https:/
 - [Icons Information](#icons-information)
 - [Vector Graphics Animations](#vector-graphics-animations)
 - [More Information](#more-information)
-- [Support Me](#support-me)
-- [License](#license)
 - [Contributing](#contributing)
 - [Deploy on Vercel](#deploy-on-vercel)
 - [Stay Connected!](#stay-connected)
