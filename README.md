@@ -1,10 +1,7 @@
 # Portfolio Webiste
 
-![image]([https://raw.githubusercontent.com/pranjalshikhar/portfolio-v3/main/public/readme_bg.png](https://github.com/muhammedabdelhamed/hameed/blob/main/public/image.png))
-
-
 <p align="center">
-  <img src="[https://github.com/user-attachments/assets/97ddad97-5d77-40b6-8fa3-35e2e034a97d](https://raw.githubusercontent.com/muhammedabdelhamed/hameed/refs/heads/main/public/image.png)"  alt="Muhammed Abdelhamed's Portfolio"/>
+  <img src="https://raw.githubusercontent.com/muhammedabdelhamed/hameed/refs/heads/main/public/image.png"  alt="Muhammed Abdelhamed's Portfolio"/>
 </p>
 
 
