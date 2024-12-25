@@ -8,7 +8,6 @@ export default function Document() {
       lang="en"
     >
       <Head>
-        {/* <title>pranjal ✦ developer, designer</title> */}
         <meta name="title" content="Muhammed Abdelhamed ✦ developer, designer" />
         <meta name="description" content="Developer // Designer // Weeb" />
 
@@ -46,7 +45,7 @@ export default function Document() {
 
         {/* whatsapp */}
         <meta property="og:site_name" content="Muhammed Abdelhamed ✦ developer, designer" />
-        <meta property="og:title" content="pranjal ✦ developer, designer" />
+        <meta property="og:title" content="Muhammed Abdelhamed ✦ developer, designer" />
         <meta
           property="og:description"
           content="Developer // Designer // Weeb"
