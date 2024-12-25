@@ -6,7 +6,7 @@
 
 
 
-This project is built with Next.js and React, showcasing [Muhammad Fiaz](https://github.com/muhammedabdelhamed/)'s [personal website](https://#/).
+This project is built with Next.js and React, showcasing [Muhammed Abdelhamed](https://github.com/muhammedabdelhamed/)'s [personal website](https://#/).
 
 **Feel free to use this project for your portfolio or as a project reference. If you find it helpful, don't forget to give it a ⭐️ to show your support. [Fork this repo](https://github.com/muhammedabdelhamed/hameed/fork) if you want to contribute✨**
 
