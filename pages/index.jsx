@@ -49,7 +49,7 @@ export default function Home() {
               height="80"
             />
             <div className="flex flex-col ml-4">
-              <h2 className="flex sm:text-2xl md:text-2xl lg:text-2xl">
+              <h2 className="flex sm:text-1xl md:text-2xl lg:text-2xl">
                 <span className="font-semibold">Muhammed Abdelhamed</span>
                 <span>
                   <Image
