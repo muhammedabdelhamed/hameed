@@ -31,7 +31,7 @@ const Timeline = () => {
               <span className="text-red-700 font-bold">REsume</span>{" "}
               <a
                 onClick={() =>
-                  navigator.clipboard.writeText("https://drive.google.com/file/d/1KsO7vEnHIVZZ0CXEyUw0Ai2_4tKxbpwd/view?usp=drive_link")
+                  navigator.clipboard.writeText("https://drive.google.com/file/d/1z4eS0M2sLk0eYoBeC1EIc6HkBqjxsUei/view?usp=sharing")
                 }
                 className=" underline underline-offset-4 decoration-2 decoration-purple-400 group select-all font-semibold dark:hover:text-purple-400 hover:text-purple-700 cursor-pointer select "
                 href="https://drive.google.com/file/d/1KsO7vEnHIVZZ0CXEyUw0Ai2_4tKxbpwd/view?usp=drive_link"
